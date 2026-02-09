@@ -1,0 +1,7 @@
+Check list:
+1. handle missing value
+2. handle categorical value
+3. Scale the features
+4. remove outliers
+5. feature selection
+6. PCA
